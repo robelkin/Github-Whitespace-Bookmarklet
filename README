@@ -1,0 +1,1 @@
+This is a really simple project to provide a javascript bookmarklet to reload your page on Github to append ?w=1 to the end of the url, which will remove all the whitespace changes from the diff you are viewing.
